@@ -50,7 +50,7 @@
   ("o" ?ם)
   ("p" "פֿ")
   ((S-p) "פּ")
-  ((s-P) ?פ) ; Both shift and super keys are used to avoid conflict with the <Super>p shortcut
+  ((s-P) ?פ) ; Both shift and super used to avoid conflict with the <Super>p shortcut
   ("a" ?ש)
   ((S-a) "שׂ")
   ("s" ?ד)
