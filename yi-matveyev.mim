@@ -1,4 +1,4 @@
-;; yi-matveyev.mim -- Yiddish input method with a traditional layout
+;; yi-matveyev.mim -- Yiddish input method with traditional layout
 ;; Copyright (C) 2020
 ;;  Yoel Matveyev
 
@@ -50,13 +50,13 @@
   ("o" ?ם)
   ("p" "פֿ")
   ((S-p) "פּ")
-  ((s-P) ?פ) ; Both shift and super used to avoid conflict with the <Super>p shortcut
+  ((s-P) ?פ) ; Both shift and super keys are used to avoid conflict with the <Super>p shortcut
   ("a" ?ש)
   ((S-a) "שׂ")
   ("s" ?ד)
   ("d" ?ג)
   ("f" ?כ)
-  ((S-f) "כּׂ")
+  ((S-f) "כּ")
   ("g" ?ע)
   ("h" ?י)
   ((S-h) "ײַ")
@@ -74,7 +74,7 @@
   ("n" ?מ)
   ("m" ?צ)
   ("," ?ת)
-  ("," "תּ")
+  ("<" "תּ")
   ("." ?ץ)
   ("/" ?.)
   ((s-') ?׳)
@@ -88,8 +88,7 @@
   ("{" "}")
   ("}" "{")
   ("-" "־")
-  ((S-) "—ּ")
-  ((s-) "-")
+  ("_" "-")
 
   ))
 
