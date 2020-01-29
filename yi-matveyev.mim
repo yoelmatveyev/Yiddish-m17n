@@ -74,7 +74,7 @@
   ("n" ?מ)
   ("m" ?צ)
   ("," ?ת)
-  ((s-,) "תּ") ; Super instead of shift is used to preserve the the "<" sign 
+  ((s-,) "תּ") ; Super instead of shift is used to preserve the ">" sign 
   ("." ?ץ)
   ("/" ?.)
   ((s-') ?׳)
