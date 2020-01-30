@@ -40,9 +40,9 @@
   ("w" ?,)
   ("e" ?ק)
   ("r" ?ר)
-  ("t" "אַ")
-  ((S-t) "אָ")
-  ((s-t) ?א)
+  ("t" ?א)
+  ((S-t) "אַ")
+  ((s-t) "אָ")
   ("y" ?ט)
   ("u" ?ו)
   ((S-u) "וּ")
@@ -74,7 +74,7 @@
   ("n" ?מ)
   ("m" ?צ)
   ("," ?ת)
-  ((s-,) "תּ") ; Super instead of shift is used to preserve the ">" sign 
+  ((s-,) "תּ") ; Super instead of shift is used to preserve the the "<" sign 
   ("." ?ץ)
   ("/" ?.)
   ((s-') ?׳)
