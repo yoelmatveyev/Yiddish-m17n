@@ -1,7 +1,7 @@
 # Yiddish-m17n
-A Yiddish m17n layout for Unix/Linux, optimized for letter/ligatures frequencies and desktop publishing.
+A Yiddish m17n layout for Unix/Linux, optimized for letter/ligature frequencies and desktop publishing.
 
-This input method for Yiddish based on the traditional typewriter layout, which also serves as the base of modern Hebrew layouts. Unlike most other Yiddish layouts, which are either phonetical or based on randomly chosen ligature assignments, this method takes into consideration frequency of letters and ligatures in actual Yiddish texts. 
+This input method for Yiddish is based on the traditional typewriter layout, which also serves as the base of modern Hebrew layouts. Unlike most other Yiddish layouts, which are either phonetical or based on randomly chosen ligature assignments, this method takes into consideration frequency of ligatures in actual Yiddish texts. 
 
 For the sake of compatibility with some software, especially Adobe Indesign (proprietary and non-existent under Unix, but still broadly considered an industry standand), Yiddish ligatures are provided as character combinations and not as single Unicode characters. In some cases such rendering is beneficial for Scribus too.
 
