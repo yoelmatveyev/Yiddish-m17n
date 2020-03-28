@@ -50,7 +50,7 @@
   ("o" ?ם)
   ("p" "פֿ")
   ((S-p) "פּ")
-  ((A-p) ?פ) ; Both shift and super keys are used to avoid conflict with the <Super>p shortcut
+  ((A-p) ?פ) 
   ("a" ?ש)
   ((S-a) "שׂ")
   ("s" ?ד)
@@ -74,7 +74,7 @@
   ("n" ?מ)
   ("m" ?צ)
   ("," ?ת)
-  ((A-,) "תּ") ; Super instead of shift is used to preserve the "<" sign 
+  ((A-,) "תּ") 
   ("." ?ץ)
   ("/" ?.)
   ((A-') ?׳)
